@@ -1,7 +1,7 @@
 body{
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;   
 padding:200px;
-background-color: #3AAFA9;
+background-color: black;
 }
 h1{
 font-size:45px;
@@ -23,4 +23,5 @@ button{
 }
 #result-p{
     text-align: center;
+
 }
